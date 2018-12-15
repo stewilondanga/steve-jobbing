@@ -99,7 +99,7 @@ body {
   transform-origin: center center;
 }
 
-/*#watch #band-up {
+#watch #band-up {
   position: absolute;
   left: 4.9vmin;
   width: 14.2vmin;
@@ -108,7 +108,8 @@ body {
   border-radius: 1vmin 1vmin 0 0;
   transform-origin: center 18.05vmin;
 }
-#watch #band-bottom {
+
+/*#watch #band-bottom {
   position: absolute;
   left: 4.9vmin;
   top: 36vmin;
