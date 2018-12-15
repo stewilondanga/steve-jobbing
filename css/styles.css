@@ -132,7 +132,7 @@ body {
   transform-origin: -11.3vmin 8.3vmin;
 }
 
-/*#watch #button {
+#watch #button {
   position: absolute;
   left: 23.8vmin;
   top: 23vmin;
@@ -144,7 +144,7 @@ body {
   transform-origin: -11.7vmin -0.7vmin;
 }
 
-#phone {
+/*#phone {
   position: absolute;
   left: 16.65vmin;
   top: 3.2vmin;
