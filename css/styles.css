@@ -52,7 +52,7 @@ body {
   opacity: 1;
 }
 
-/*#watch {
+#watch {
   position: absolute;
   left: 18vmin;
   top: 7.7vmin;
@@ -61,7 +61,8 @@ body {
   opacity: 1;
   transform: scale(1) rotate(0);
 }
-#watch div {
+
+/*#watch div {
   transform: scale(1) rotate(0) translate(0, 0);
   opacity: 1;
   transition: 0.4s cubic-bezier(0.6, 0.04, 0.08, 1.3);
