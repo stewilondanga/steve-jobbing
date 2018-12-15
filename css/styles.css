@@ -197,7 +197,7 @@ body {
   transform-origin: 1.9vmin -22vmin;
 }
 
-/*#phone #camera {
+#phone #camera {
   position: absolute;
   left: 13vmin;
   top: 2vmin;
@@ -207,7 +207,8 @@ body {
   border-radius: 100vmin;
   transform-origin: 0 24.8vmin;
 }
-#phone #sensor {
+
+/*#phone #sensor {
   position: absolute;
   left: 9.2vmin;
   top: 3.4vmin;
