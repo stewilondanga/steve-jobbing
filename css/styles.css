@@ -166,7 +166,7 @@ body {
   transform: scale(0.1) rotate(-90deg);
 }
 
-/*#phone #outline {
+#phone #outline {
   position: absolute;
   width: 26.7vmin;
   height: 53.6vmin;
@@ -175,7 +175,8 @@ body {
   display: flex;
   transform-origin: center center;
 }
-#phone #screen {
+
+/*#phone #screen {
   margin: auto;
   width: 23.5vmin;
   height: 41.6vmin;
