@@ -109,7 +109,7 @@ body {
   transform-origin: center 18.05vmin;
 }
 
-/*#watch #band-bottom {
+#watch #band-bottom {
   position: absolute;
   left: 4.9vmin;
   top: 36vmin;
@@ -119,7 +119,8 @@ body {
   border-radius: 0 0 1vmin 1vmin;
   transform-origin: center -1.75vmin;
 }
-#watch #crown {
+
+/*#watch #crown {
   position: absolute;
   left: 23.25vmin;
   top: 14vmin;
