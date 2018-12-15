@@ -208,7 +208,7 @@ body {
   transform-origin: 0 24.8vmin;
 }
 
-/*#phone #sensor {
+#phone #sensor {
   position: absolute;
   left: 9.2vmin;
   top: 3.4vmin;
@@ -218,7 +218,8 @@ body {
   border-radius: 100vmin;
   transform-origin: 3.65vmin 23.4vmin;
 }
-#phone #speaker {
+
+/*#phone #speaker {
   position: absolute;
   left: 10.85vmin;
   top: 3.6vmin;
