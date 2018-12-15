@@ -43,11 +43,12 @@ body {
   letter-spacing: .2vmin;
 }
 
-/*.quote span {
+.quote span {
   opacity: .1;
   transition: .5s ease-in-out;
 }
-.quote span.highlight {
+
+/*.quote span.highlight {
   opacity: 1;
 }
 
