@@ -254,7 +254,7 @@ body {
   transform-origin: 13.35vmin 20.2vmin;
 }
 
-/*#phone #volume-up {
+#phone #volume-up {
   position: absolute;
   left: -.3vmin;
   top: 10.6vmin;
@@ -265,7 +265,8 @@ body {
   transition-delay: 50ms;
   transform-origin: 13.35vmin 16.2vmin;
 }
-#phone #volume-down {
+
+/*#phone #volume-down {
   position: absolute;
   left: -.3vmin;
   top: 14.6vmin;
