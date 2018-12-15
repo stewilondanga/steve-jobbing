@@ -176,7 +176,7 @@ body {
   transform-origin: center center;
 }
 
-/*#phone #screen {
+#phone #screen {
   margin: auto;
   width: 23.5vmin;
   height: 41.6vmin;
@@ -184,7 +184,8 @@ body {
   transform-origin: center center;
   transition-delay: 100ms;
 }
-#phone #home {
+
+/*#phone #home {
   position: absolute;
   left: 11.6vmin;
   top: 48.8vmin;
