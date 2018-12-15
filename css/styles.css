@@ -219,7 +219,7 @@ body {
   transform-origin: 3.65vmin 23.4vmin;
 }
 
-/*#phone #speaker {
+#phone #speaker {
   position: absolute;
   left: 10.85vmin;
   top: 3.6vmin;
@@ -230,7 +230,8 @@ body {
   transition-delay: 100ms;
   transform-origin: 0vmin 23.2vmin;
 }
-#phone #lock {
+
+/*#phone #lock {
   position: absolute;
   left: 26.7vmin;
   top: 9.6vmin;
