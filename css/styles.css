@@ -319,7 +319,7 @@ body {
   transform-origin: center center;
 }
 
-/*#laptop #keyboard {
+#laptop #keyboard {
   position: absolute;
   top: 33vmin;
   width: 60vmin;
@@ -328,7 +328,8 @@ body {
   background: #FFD568;
   transform-origin: center -8vmin;
 }
-#laptop #back {
+
+/*#laptop #back {
   position: absolute;
   top: 34.3vmin;
   width: 60vmin;
