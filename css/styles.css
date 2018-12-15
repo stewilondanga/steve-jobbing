@@ -48,11 +48,11 @@ body {
   transition: .5s ease-in-out;
 }
 
-/*.quote span.highlight {
+.quote span.highlight {
   opacity: 1;
 }
 
-#watch {
+/*#watch {
   position: absolute;
   left: 18vmin;
   top: 7.7vmin;
