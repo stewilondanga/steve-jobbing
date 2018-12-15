@@ -329,7 +329,7 @@ body {
   transform-origin: center -8vmin;
 }
 
-/*#laptop #back {
+#laptop #back {
   position: absolute;
   top: 34.3vmin;
   width: 60vmin;
@@ -338,7 +338,8 @@ body {
   border-radius: 0 0 .5vmin .5vmin;
   transform-origin: center -10vmin;
 }
-#laptop #notch {
+
+/*#laptop #notch {
   position: absolute;
   top: 33vmin;
   left: 25.7vmin;
