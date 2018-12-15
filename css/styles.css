@@ -266,7 +266,7 @@ body {
   transform-origin: 13.35vmin 16.2vmin;
 }
 
-/*#phone #volume-down {
+#phone #volume-down {
   position: absolute;
   left: -.3vmin;
   top: 14.6vmin;
@@ -277,7 +277,7 @@ body {
   transform-origin: 13.35vmin 12.2vmin;
 }
 
-#laptop {
+/*#laptop {
   position: absolute;
   left: 0;
   top: 10vmin;
