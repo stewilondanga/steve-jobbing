@@ -78,7 +78,7 @@ body {
   transform: scale(0.1) rotate(-90deg);
 }
 
-/*#watch #outline {
+#watch #outline {
   position: absolute;
   top: 8.5vmin;
   width: 24vmin;
@@ -88,7 +88,8 @@ body {
   display: flex;
   transform-origin: center center;
 }
-#watch #screen {
+
+/*#watch #screen {
   width: 21.6vmin;
   height: 25vmin;
   background: #FF766D;
