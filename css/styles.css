@@ -32,7 +32,6 @@ body {
   height: 60vmin;
 }
 
-/*
 .quote {
   position: relative;
   margin: auto;
@@ -43,7 +42,8 @@ body {
   font-size: 6vmin;
   letter-spacing: .2vmin;
 }
-.quote span {
+
+/*.quote span {
   opacity: .1;
   transition: .5s ease-in-out;
 }
