@@ -144,12 +144,13 @@ body {
   transform-origin: -11.7vmin -0.7vmin;
 }
 
-/*#phone {
+#phone {
   position: absolute;
   left: 16.65vmin;
   top: 3.2vmin;
 }
-#phone div {
+
+/*#phone div {
   transform: scale(1) rotate(0) translate(0, 0);
   opacity: 1;
   transition: 0.4s cubic-bezier(0.6, 0.04, 0.08, 1.3);
