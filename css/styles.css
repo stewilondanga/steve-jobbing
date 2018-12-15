@@ -231,7 +231,7 @@ body {
   transform-origin: 0vmin 23.2vmin;
 }
 
-/*#phone #lock {
+#phone #lock {
   position: absolute;
   left: 26.7vmin;
   top: 9.6vmin;
@@ -241,7 +241,8 @@ body {
   border-radius: 0 10vmin 10vmin;
   transform-origin: -13.35vmin 17.2vmin;
 }
-#phone #silent {
+
+/*#phone #silent {
   position: absolute;
   left: -.3vmin;
   top: 6.6vmin;
