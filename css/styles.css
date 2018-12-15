@@ -310,7 +310,7 @@ body {
   transform-origin: center center;
 }
 
-/*#laptop #screen {
+#laptop #screen {
   width: 44vmin;
   height: 29vmin;
   background: #FFF2D1;
@@ -318,7 +318,8 @@ body {
   transition-delay: 50ms;
   transform-origin: center center;
 }
-#laptop #keyboard {
+
+/*#laptop #keyboard {
   position: absolute;
   top: 33vmin;
   width: 60vmin;
