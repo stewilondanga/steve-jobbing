@@ -339,7 +339,7 @@ body {
   transform-origin: center -10vmin;
 }
 
-/*#laptop #notch {
+#laptop #notch {
   position: absolute;
   top: 33vmin;
   left: 25.7vmin;
@@ -350,7 +350,8 @@ body {
   transition-delay: 100ms;
   transform-origin: center -8vmin;
 }
-#laptop #camera {
+
+/*#laptop #camera {
   position: absolute;
   top: .5vmin;
   left: 29.7vmin;
