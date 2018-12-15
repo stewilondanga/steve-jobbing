@@ -185,7 +185,7 @@ body {
   transition-delay: 100ms;
 }
 
-/*#phone #home {
+#phone #home {
   position: absolute;
   left: 11.6vmin;
   top: 48.8vmin;
@@ -196,7 +196,8 @@ body {
   transition-delay: 50ms;
   transform-origin: 1.9vmin -22vmin;
 }
-#phone #camera {
+
+/*#phone #camera {
   position: absolute;
   left: 13vmin;
   top: 2vmin;
