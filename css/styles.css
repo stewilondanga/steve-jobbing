@@ -89,7 +89,7 @@ body {
   transform-origin: center center;
 }
 
-/*#watch #screen {
+#watch #screen {
   width: 21.6vmin;
   height: 25vmin;
   background: #FF766D;
@@ -98,7 +98,8 @@ body {
   transition-delay: 50ms;
   transform-origin: center center;
 }
-#watch #band-up {
+
+/*#watch #band-up {
   position: absolute;
   left: 4.9vmin;
   width: 14.2vmin;
