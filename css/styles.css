@@ -161,11 +161,12 @@ body {
   transform: scale(0.1) rotate(90deg);
 }
 
-/*#phone.ready div {
+#phone.ready div {
   opacity: 0;
   transform: scale(0.1) rotate(-90deg);
 }
-#phone #outline {
+
+/*#phone #outline {
   position: absolute;
   width: 26.7vmin;
   height: 53.6vmin;
