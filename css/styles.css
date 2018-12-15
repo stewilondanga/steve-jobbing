@@ -299,7 +299,7 @@ body {
   transform: scale(0.1) rotate(-90deg);
 }
 
-/*#laptop #outline {
+#laptop #outline {
   position: absolute;
   left: 6vmin;
   width: 48vmin;
@@ -309,7 +309,8 @@ body {
   display: flex;
   transform-origin: center center;
 }
-#laptop #screen {
+
+/*#laptop #screen {
   width: 44vmin;
   height: 29vmin;
   background: #FFF2D1;
