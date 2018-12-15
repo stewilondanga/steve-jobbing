@@ -120,7 +120,7 @@ body {
   transform-origin: center -1.75vmin;
 }
 
-/*#watch #crown {
+#watch #crown {
   position: absolute;
   left: 23.25vmin;
   top: 14vmin;
@@ -131,7 +131,8 @@ body {
   transition-delay: 50ms;
   transform-origin: -11.3vmin 8.3vmin;
 }
-#watch #button {
+
+/*#watch #button {
   position: absolute;
   left: 23.8vmin;
   top: 23vmin;
